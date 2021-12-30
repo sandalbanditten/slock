@@ -5,5 +5,4 @@ Install it like you would regular slock.
 
 ## Scripts
 
-Here is a simple dmenu and slock script:
-TODO: Add link to the script
+In my [scripts repo](https://github.com/sandalbanditten/scripts) the script 'off' uses slock and dmenu.
