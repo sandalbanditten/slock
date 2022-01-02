@@ -6,3 +6,7 @@ Install it like you would regular slock.
 ## Scripts
 
 In my [scripts repo](https://github.com/sandalbanditten/scripts) the script 'off' uses slock and dmenu.
+
+## License
+
+The MIT/X Consortium License
