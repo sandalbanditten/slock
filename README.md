@@ -9,4 +9,4 @@ In my [scripts repo](https://github.com/sandalbanditten/scripts) the script 'off
 
 ## License
 
-The MIT/X Consortium License
+The [MIT/X Consortium License](https://mit-license.org/)
