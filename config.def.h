@@ -1,6 +1,9 @@
 /* user and group to drop privileges to */
-static const char *user  = "notroot";
-static const char *group = "wheel";
+/* these have been set to "nobody"
+ * if you are not on arch linux they should
+ * probably be set to nogroup */
+static const char *user  = "nobody";
+static const char *group = "nobody";
 
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "#2e3440",   /* after initialization */
