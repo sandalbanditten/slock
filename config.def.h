@@ -13,3 +13,12 @@ static const char *colorname[NUMCOLS] = {
 
 /* treat a cleared input like a wrong password (color) */
 static const int failonclear = 1;
+
+/* default message */
+static const char * message = "sandal";
+
+/* text color */
+static const char * text_color = "#eceff4";
+
+/* text font */
+static const char * font_name = "Fira Code";

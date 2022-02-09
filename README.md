@@ -7,6 +7,11 @@ Install it like you would regular slock.
 
 In my [scripts repo](https://github.com/sandalbanditten/scripts) the script 'off' uses slock and dmenu.
 
+## Patches
+
+Here are the patches I use:
+* [message](https://tools.suckless.org/slock/patches/message/)
+
 ## License
 
 The [MIT/X Consortium License](https://mit-license.org/)
