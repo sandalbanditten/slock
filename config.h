@@ -21,4 +21,4 @@ static const char * message = "sandal";
 static const char * text_color = "#eceff4";
 
 /* text font */
-static const char * font_name = "Fira Code";
+static const char * font_name = "6x13";
