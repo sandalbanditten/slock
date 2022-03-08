@@ -6,9 +6,9 @@ static const char *user  = "nobody";
 static const char *group = "nobody";
 
 static const char *colorname[NUMCOLS] = {
-	[INIT] =   "#2e3440",   /* after initialization */
-	[INPUT] =  "#2e3440",   /* during input */
-	[FAILED] = "#bf616a",   /* wrong password */
+	[INIT] =   "#282828",   /* after initialization */
+	[INPUT] =  "#282828",   /* during input */
+	[FAILED] = "#cc241d",   /* wrong password */
 };
 
 /* treat a cleared input like a wrong password (color) */
@@ -18,7 +18,7 @@ static const int failonclear = 1;
 static const char * message = "sandal";
 
 /* text color */
-static const char * text_color = "#eceff4";
+static const char * text_color = "#ebdbb2";
 
 /* text font */
 static const char * font_name = "fixed";
